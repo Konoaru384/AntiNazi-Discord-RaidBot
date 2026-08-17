@@ -18,7 +18,7 @@ Un bot discord pour raid les discord néo-nazi/fasciste.
 
 ### Configuration des intents Discord
 
-Pour que Fachonuker fonctionne correctement, vous devez activer les "Privileged Gateway Intents" dans le Developer Portal Discord. C'est une étape cruciale que beaucoup oublient, mais sans laquelle le bot ne pourra pas fonctionner correctement^1,2^.
+Pour que Fachonuker fonctionne correctement, vous devez activer les "Privileged Gateway Intents" dans le Developer Portal Discord. C'est une étape cruciale que beaucoup oublient, mais sans laquelle le bot ne pourra pas fonctionner correctement.
 
 Voici comment faire :
 
@@ -31,7 +31,6 @@ Voici comment faire :
    - **Message Content Intent** (nécessaire pour lire le contenu des messages)
 6. Sauvegardez les modifications
 
-Ces intents sont essentiels car ils donnent au bot les permissions nécessaires pour voir les membres et lire les messages, sans quoi il ne pourrait pas accomplir sa mission^5^.
 
 ### Configuration du bot
 
