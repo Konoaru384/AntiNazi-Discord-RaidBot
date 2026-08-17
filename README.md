@@ -26,7 +26,7 @@ Voici comment faire :
 2. Sélectionnez votre application/bot
 3. Allez dans l'onglet "Bot"
 4. Faites défiler jusqu'à "Privileged Gateway Intents"
-5. Activez les deux options suivantes^3,4^ :
+5. Activez les deux options suivantes :
    - **Server Members Intent** (nécessaire pour accéder à la liste des membres)
    - **Message Content Intent** (nécessaire pour lire le contenu des messages)
 6. Sauvegardez les modifications
